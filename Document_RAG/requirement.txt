@@ -1,0 +1,7 @@
+llama-index
+streamlit
+openai
+transformers
+torch
+pypdf
+chromadb
